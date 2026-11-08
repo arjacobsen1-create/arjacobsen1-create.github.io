@@ -8,8 +8,11 @@ ownership of this domain.
 
 - **Token Estimator** — AI cost planning and optimisation:
   https://arjacobsen1-create.github.io/token-estimator/
-- **Token Minimiser (standalone)** — the same Minimiser on its own
-  site: https://arjacobsen1-create.github.io/token-minimiser/
+
+The Token Minimiser also exists as a standalone site in its own
+repo (token-minimiser), retained public; it is not featured on the
+landing page because the Minimiser is the third module of Token
+Estimator, and the front door tells that one story.
 
 The asset-links file ships empty until the Android signing key
 exists; its contents (package name + SHA-256 fingerprint) are added
